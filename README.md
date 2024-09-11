@@ -1,15 +1,15 @@
-## Trabalho de Conjuntos de Matematica de natureza Discreta
+## Work on Mathematical Sets of a Discrete Nature
 
 
-O programa em python deve ler um arquivo .txt que contém a quantidade de operações, o tipo de operação (união, interseção, diferença ou produto cartesiano) e os conjuntos envolvidos. 
-O formato do arquivo inclui:
+The Python program must read a .txt file that contains the number of operations, the type of operation (union, intersection, difference or Cartesian product) and the sets involved. 
+The file format includes:
 
-Primeira linha: número de operações.
-Conjuntos de três linhas:
-Letra para definir a operação (U: união, I: interseção, D: diferença, C: produto cartesiano),
-Elementos do conjunto 1,
-Elementos do conjunto 2.
-O arquivo a ser lido é passado como parâmetro na linha de comando. Exemplos de nomes de arquivos: output.txt, output3.txt.
+First line: number of operations.
+Sets of three lines:
+Letter to define the operation (U: union, I: intersection, D: difference, C: Cartesian product),
+Elements from set 1,
+Elements from set 2.
+The file to be read is passed as a parameter on the command line. Examples of file names: output.txt, output3.txt.
 
 
 
